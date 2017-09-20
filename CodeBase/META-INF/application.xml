@@ -3,5 +3,11 @@
  <display-name>CodeBase</display-name>
  <module id="Module_1505887566308">
  	<ejb>EJBProject1.jar</ejb>
+ </module>
+ <module id="Module_1505888133247">
+ 	<web>
+ 		<web-uri>CodeBaseWAR.war</web-uri>
+ 		<context-root>CodeBaseWAR</context-root>
+ 	</web>
  </module> 
  </application> 
